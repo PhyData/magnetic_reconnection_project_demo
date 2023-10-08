@@ -85,19 +85,7 @@ html.Div([
 html.Div([
     html.Img(src='assets/KM-plot-classM.png', style={'width': '50%', 'margin': '0 auto', 'display': 'block'}),
 ],),
-    
-    #html.Div([
-    #gif.GifPlayer(
-    #    gif='assets/wood.gif',
-    #    still='assets/still.png',)
-    #],style={'width': '49%', 'display': 'inline-block'} ,className="grafico"),
 
-    #html.Div([
-    #gif.GifPlayer(
-    #    gif='assets/wood.gif',
-    #    still='assets/still.png',)
-    #],style={'width': '49%', 'display': 'inline-block'} ,className="grafico"),    
-   
 ]) 
 
 if __name__ == '__main__':
