@@ -1,7 +1,6 @@
 import dash
 import dash_core_components as dcc
 import dash_html_components as html
-import dash_gif_component as gif
 import pandas as pd
 import plotly.graph_objs as go
 
